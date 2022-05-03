@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ABPittEarlitec
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-ABPittEarlitec/ABPittEarlitec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is a private account associated with my work at [EarlitecDx](https://www.earlitecdx.com/) 
+
+My public github is [a2un](https://github.com/a2un
